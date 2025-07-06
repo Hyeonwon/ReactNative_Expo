@@ -1,10 +1,10 @@
 import React from 'react';
 import { View, Text, StyleSheet } from 'react-native';
 
-export default function Alter() {
+export default function Test() {
   return (
     <View style={styles.container}>
-      <Text style={styles.text}>✅ 이게 보이면 App.js가 정상적으로 반영된 겁니다!</Text>
+      <Text style={styles.text}>Test 중 입니다. 잘 보이면 OK!</Text>
     </View>
   );
 }

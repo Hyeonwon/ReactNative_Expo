@@ -1,6 +1,6 @@
 import React from 'react';
-import Alter from './testCode/Alter';
+import Test from './testCode/Test';
 
 export default function App() {
-  return <Alter />; 
+  return <Test />; 
 }
